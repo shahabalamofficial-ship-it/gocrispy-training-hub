@@ -1,0 +1,11 @@
+{
+  "name": "Go Crispy Training Hub",
+  "short_name": "GC Hub",
+  "description": "Bilingual (English/Bangla) food-safety study hub for Go Crispy staff — temperatures, holding times, practice quiz, cheat sheet.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12161A",
+  "theme_color": "#12161A"
+}
